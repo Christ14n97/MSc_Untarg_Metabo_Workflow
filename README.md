@@ -1,7 +1,7 @@
 # Untargeted Metabolomics - Multivariate Analysis Workflow
 
 This repository focus on a PDF where the general data analysis workflow I applied along my MSc thesis. It starts with multivariate analysis of both flavors: unsupervised and supervised. Later,
-analysis of [MetaboRank](https://pubmed.ncbi.nlm.nih.gov/29982278/) output is shown.
+analysis of [MetaboRank](https://pubmed.ncbi.nlm.nih.gov/29982278/) output, showing how to look for suggested metabolites in a set of features.
 
 The [workflow](https://github.com/Christ14n97/MSc_Untarg_Metabo_Workflow/blob/master/Multivariate_Analysis_Metabolomics_Workflow.pdf) covers an introduction to the experimental data to afterwards show the data manipulation and data analysis performed with Python.
 
